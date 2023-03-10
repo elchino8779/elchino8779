@@ -37,6 +37,6 @@
 
 ---
 
-### 📊 Mi estado:
+### 📊 Mi estado en GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elchino8779&langs_count=8)](https://github.com/elchino8779/github-readme-stats)
