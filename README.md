@@ -12,9 +12,9 @@
 
 - 🤓 Empece en el desarrollo de software en el año 2022.
 
-- 💾 Actualmente estudio **React.js y Spring**
+- 💾 Actualmente estudio **React.js y Spring.**
 
-- 📨 Puedes contactarme en **elchino8779@gmail.com**
+- 📨 Puedes contactarme en: **elchino8779@gmail.com**
 
 - 🍀 Mi LinkedIn. [Andres Gomez](https://www.linkedin.com/in/andresgomez87)
 
