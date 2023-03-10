@@ -39,8 +39,6 @@
 
 ### 📊 Mi estado:
 
-<div align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elchino8779&theme=algolia&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elchino8779&theme=algolia&hide_border=true&locale=es)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elchino8779&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elchino8779&langs_count=8)](https://github.com/elchino8779/github-readme-stats)
-</div>
