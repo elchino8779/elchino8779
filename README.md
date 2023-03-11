@@ -10,7 +10,7 @@
 
 ### 😒 Sobre mi:
 
-- 🤓 Empece en el desarrollo de software en el año 2022.
+- 🤓 Comence en el desarrollo de software en el año 2022.
 
 - 💾 Actualmente estudio **React y Spring.**
 
