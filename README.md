@@ -14,7 +14,7 @@
 
 - 💾 Actualmente estudio **NextJs, NodeJs y ExpressJs.**
 
-- 📨 Puedes contactarme en: **elchino8779@gmail.com**
+- 📨 Puedes contactarme en: **andres_gomez87@outlook.com**
 
 - 🍀 Mi LinkedIn. [Andres Gomez](https://www.linkedin.com/in/andresgomez87)
 
