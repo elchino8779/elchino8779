@@ -12,7 +12,7 @@
 
 - 🤓 Comence con el desarrollo de software en el año 2022.
 
-- 💾 Actualmente estudio **React y Spring.**
+- 💾 Actualmente estudio **NextJs, NodeJs y ExpressJs.**
 
 - 📨 Puedes contactarme en: **elchino8779@gmail.com**
 
