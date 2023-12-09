@@ -9,14 +9,17 @@
 ---
 
 ### 😒 Sobre mi:
+> [!Note]
+> 🤓 Comence con el desarrollo de software en el año 2022.
 
-- 🤓 Comence con el desarrollo de software en el año 2022.
+> [!TIP]
+> 💾 Actualmente estudio **NextJs, NodeJs y ExpressJs.**
 
-- 💾 Actualmente estudio **NextJs, NodeJs y ExpressJs.**
+> [!IMPORTANT]
+> 📨 Puedes contactarme en: **andres_gomez87@outlook.com**
 
-- 📨 Puedes contactarme en: **andres_gomez87@outlook.com**
-
-- 🍀 Mi LinkedIn. [Andres Gomez](https://www.linkedin.com/in/andresgomez87)
+> [!CAUTION]
+> 🍀 Mi LinkedIn. [Andres Gomez](https://www.linkedin.com/in/andresgomez87)
 
 ---
 
