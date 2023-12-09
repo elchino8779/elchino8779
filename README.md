@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/3o6Mb9rUQ5v4ZnBbzO/giphy.gif" width="300"/>
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
     <h1 align="center">Hola! 👋 Mi nombre es Andres</h1>
     <h3 align="center">Software Developer en progreso 💻</h3>
     <h3 align="center">Soy un apasionado por la tecnologia 🤓 me gusta todo lo que se relacione a ella</h3>
