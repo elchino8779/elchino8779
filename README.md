@@ -35,11 +35,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="Sass" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="40" height="40">
+        <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Vitejs-900x0.png" alt="Vite" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" alt="Spring" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="Git" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-        <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Vitejs-900x0.png" alt="Vite" width="40" height="40">
     </div>
 </div>
 
