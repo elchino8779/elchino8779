@@ -1,14 +1,14 @@
 <div id="header" align="center">
     <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-    <h1 align="center">Hola! 👋 Mi nombre es Andres</h1>
+    <h1 align="center">Hola! 👋 Mi nombre es Andrés</h1>
     <h3 align="center">Web Developer Front-End 💻</h3>
-    <h3 align="center">Soy un apasionado por la tecnologia 🤓 me gusta todo lo que se relacione a ella</h3>
+    <h3 align="center">Soy un apasionado por la tecnología 🤓 me gusta todo lo que se relacione a ella</h3>
     <h3 align="center">...siempre estoy aprendiendo algo nuevo 👌</h3>
 </div>
 
 ---
 
-### 😒 Sobre mi:
+### 😒 Sobre mí:
 > [!Note]
 > 🤓 Comencé con el desarrollo de software en el año 2021.
 
