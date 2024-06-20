@@ -10,7 +10,7 @@
 
 ### 😒 Sobre mí:
 > [!Note]
-> 🤓 Comencé con el desarrollo de software en el año 2021.
+> 🤓 Comencé con el desarrollo web en el año 2021.
 
 > [!TIP]
 > 💾 Actualmente estudio **NextJs, NodeJs y ExpressJs.**
