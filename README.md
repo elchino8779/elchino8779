@@ -12,7 +12,7 @@
 > [!Note]
 > 🤓 Comencé con el desarrollo web en el año 2021.
 
-> [!TIP]
+> [!WARNING]
 > 💾 Actualmente estudio **NextJs, NodeJs y ExpressJs.**
 
 > [!IMPORTANT]
